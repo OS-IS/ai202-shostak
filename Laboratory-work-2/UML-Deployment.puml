@@ -1,0 +1,41 @@
+@startuml
+title UML-діаграма розгортання ПП
+
+left to right direction
+
+skinparam componentStyle uml1
+
+node "<<Настільний комп'ютер>>" as dk {
+    node "<<ОС Windows>>" as os1{
+        node "<<Веб-навігатор>>" {
+            component [*.html]
+        }
+    }
+}
+
+interface Keyboard
+interface Mouse
+
+Keyboard -- dk
+Mouse -- dk
+
+node "<<Сервер 1>>" as server1{
+    node "<<ОС Windows>>" as os2 {
+        node "<<Flask>>" {
+            component [*.py]
+        }
+    }
+}
+
+dk -- server1
+
+node "<<Сервер 2>>" as server2 {
+    node "<<ОС Windows>>" as os3{
+        node "<<Database Server SQLite>>" {
+            database "Relation DataBase"
+        }
+    }
+}
+
+server1 -- server2
+@enduml
