@@ -3,12 +3,9 @@
 
 Таблиця teacher до запиту:
 
-картинка
+![image](https://github.com/user-attachments/assets/ca385720-554a-43a4-990f-7cc77ffa088c)
 
-Запит:
 
-картинка
+Запит та Таблиця teacher після запиту:
 
-Таблиця teacher після запиту:
-
-картинка
+![image](https://github.com/user-attachments/assets/20785877-6fab-4a1f-bd83-7f1056095864)
