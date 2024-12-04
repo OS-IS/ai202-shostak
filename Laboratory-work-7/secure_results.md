@@ -1,25 +1,7 @@
-### Виклики безпечної функції get_data_safe
+![image](https://github.com/user-attachments/assets/c2d9e2e5-d126-40ef-aaa8-8d3f23c5cc1c)
 
-картинка
+![image](https://github.com/user-attachments/assets/1f0c72bb-eaa9-4475-bdbb-f83aece63af6)
 
-### Виклики безпечної функції change_data_safe
+![image](https://github.com/user-attachments/assets/b7e69a95-25b6-402d-9968-8f9d60dc3bc1)
 
-Таблиця teacher до виклику функції:
 
-картинка
-
-Запит:
-
-картинка
-
-Таблиця teacher після запиту:
-
-картинка
-
-Запит з ін'єкцією:
-
-картинка
-
-Таблиця teacher після запиту з ін'єкцією:
-
-картинка
