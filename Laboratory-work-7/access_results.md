@@ -1,10 +1,13 @@
 ### SQL-ін'єкції порушення доступності:
 − включення додаткового запиту з декартовим перемноженням для підвищення навантаження на сервер;
 
-![image](https://github.com/user-attachments/assets/ab1dd93a-e925-4d8b-97e0-7388bf09dcaf)
+![image](https://github.com/user-attachments/assets/fcf2a9fa-4f11-4977-a12e-0857103b19e5)
+
 
 
 
 − включення підзапиту зі сплячим процесом. Цей запит вводить затримку, яка блокує сервер на 30 секунд.
 
-![image](https://github.com/user-attachments/assets/0449400f-4c43-4ded-8c30-d8672c5fab4c)
+![image](https://github.com/user-attachments/assets/033696ef-5a14-445c-a16b-398244f76977)
+
+
