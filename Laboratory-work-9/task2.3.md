@@ -46,8 +46,9 @@ $$ LANGUAGE plpgsql;
 
 Правильний сценарій:
 
-картинка
+![image](https://github.com/user-attachments/assets/6f10aa8f-9cb2-40c7-8b3a-85a8ef0d9f7b)
+
 
 Неправильний сценарій:
 
-картинка
+![image](https://github.com/user-attachments/assets/4a680186-372c-4204-9919-06d6f8fbfa4d)
