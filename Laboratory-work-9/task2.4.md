@@ -32,9 +32,11 @@ $$ LANGUAGE plpgsql;
 
 2.4.3 Провести тестування роботи функції user_login.
 
-картинка
+![image](https://github.com/user-attachments/assets/7c022834-bc50-4b44-8da9-f7bc1c2ef7d1)
 
-картинка
+
+![image](https://github.com/user-attachments/assets/4bf8d784-e16d-4240-a385-6cd27172ffc4)
+
 
 2.4.4 З урахуванням Token-механізму автентифікації оновити функцію get_data отримання вмісту таблиці, яку було створено в першому завданні лабораторній роботі No7.
 
@@ -55,7 +57,8 @@ $$ LANGUAGE plpgsql;
 
 2.4.5 Провести тестування роботи оновленої функції get_data.
 
-картинка
+![Без имени-1](https://github.com/user-attachments/assets/c8e7fab7-acca-41ad-a7ef-ab039da8b054)
+
 
 2.4.6 Створити функцію user_logout для коректного очищення Token.
 
@@ -70,4 +73,4 @@ $$ LANGUAGE plpgsql;
 
 2.4.7 Провести тестування роботи user_logout.
 
-картинка
+![Знімок екрана 2024-12-03 144908](https://github.com/user-attachments/assets/940738c2-d8b4-4aaa-9790-b456c687cc8e)
